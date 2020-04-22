@@ -1,0 +1,10 @@
+——Student Profile——
+
+Name: Jaryd Meek
+
+Major/minor: Computer Science
+
+Programming experience: Java (AP Computer Science A), HTML, CSS, JavaScript, PHP, and a fair amount of linux server administration
+
+What do you expect to learn in this course?
+The basics of C++ as well as working collaboratively in a classroom environment.
