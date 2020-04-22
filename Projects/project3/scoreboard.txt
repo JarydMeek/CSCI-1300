@@ -1,0 +1,8 @@
+<NAME>                        <WIN/LOSS>     <SCORE>
+Julie                         W              80
+John                          L              40
+Jason                         W              170
+James                         L              100
+Jessica                       W              250  
+test                          L              70        
+test                          W              20        
