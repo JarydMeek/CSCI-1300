@@ -6,4 +6,4 @@ This contains all work completed for CSCI 1300 at the University of Colorado at 
 
 Teaches techniques for writing computer programs in higher level programming languages to solve problems of interest in a range of application domains. Appropriate for students with little to no experience in computing or programming.
 
-* Final Grade - 101.66*
+Final Grade - 101.66
